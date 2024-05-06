@@ -1,0 +1,35 @@
+body {
+  background-image: url(/Estudos/imagens/background.png);
+}
+
+h1,
+h2,
+h3,
+p,
+ol {
+  max-width: 1200px;
+  color: wheat;
+}
+
+figure {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 200px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  text-align: center;
+  color: wheat;
+}
+
+.imagem-container {
+  white-space: nowrap;
+  max-width: 100%;
+}
